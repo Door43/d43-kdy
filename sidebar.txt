@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kdy:home|Door43 (kdy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kdy|d43-kdy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kdy/archive/master.zip|d43-kdy.zip]]
+
+**Recent Changes**
+{{changes>ns = kdy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kdy|Ethnologue data]]
+
